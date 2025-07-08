@@ -11,7 +11,7 @@ public class Livros implements ItemEmprestavel {
         this.editora = editora;
         this.ano = ano;
     }
-
+    //Retorna descrição formatada do livro
     public String getDesc(){
         return "Livro: " + titulo + " ( " + ano + " ), de: " + autor + ", Editora: " + editora;
     }
