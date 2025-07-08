@@ -1,4 +1,4 @@
-# Biblioteca
+# Sistema de Emprestimo de Itens
 
 Trabalho II de Paradigmas de Programação - 2025.1 - UFF - Ciência da Computação
 
