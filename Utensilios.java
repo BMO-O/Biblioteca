@@ -8,6 +8,7 @@ public class Utensilios implements ItemEmprestavel {
         this.material = material;
     }
 
+    //Retorna descrição formatada do utensílio
     public String getDesc(){
         return "Utensílio: " + descricao + " (Material: " + material + ")";
     }
